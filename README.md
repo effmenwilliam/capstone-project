@@ -139,6 +139,7 @@ The completed project was deployed using Netlify. The GitHub repository was conn
 The following links were included in the final submission:
 
 * GitHub Repository Link;
+  https://github.com/effmenwilliam/capstone-project/tree/main
   
 * Netlify Live Website Link;
   https://candid-dasik-2ddf82.netlify.app/
@@ -244,5 +245,5 @@ Netlify live link;
 https://candid-dasik-2ddf82.netlify.app/
 
 Github Repository link;
-
+https://github.com/effmenwilliam/capstone-project/tree/main
 
