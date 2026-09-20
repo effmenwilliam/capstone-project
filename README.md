@@ -142,7 +142,7 @@ The completed project was deployed using Netlify. The GitHub repository was conn
 The following links were included in the final submission:
 
 * GitHub Repository Link;
-  https://github.com/effmenwilliam/capstone-project/tree/main
+  https://github.com/effmenwilliam/capstone-project
   
 * Netlify Live Website Link;
   https://goldengateconstructions.netlify.app
@@ -194,7 +194,8 @@ Several tests were conducted to ensure the website functions correctly and provi
 | Mobile Menu      | Passed | Responsive menu operated correctly   |
 |                  |        |                                      |
 
-<img width="1919" height="1078" alt="Screenshot 2026-09-18 162213" src="https://github.com/user-attachments/assets/580062ee-15f2-44aa-ae07-c6e9a2883ccf" />
+<img width="1919" height="1078" alt="Screenshot 2026-09-18 162213" src="https://github.com/user-attachments/assets/74ef780b-9518-4bfd-9eef-1f8fda02126c" />
+
 
 The website was successfully tested across multiple screen sizes and browsers. All core functionalities, including navigation, responsiveness, animations, hover effects, and layout behavior, performed as expected. The identified issues are minor and do not affect the overall usability or presentation of the landing page.
 
