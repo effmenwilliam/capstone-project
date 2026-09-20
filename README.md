@@ -142,7 +142,7 @@ The completed project was deployed using Netlify. The GitHub repository was conn
 The following links were included in the final submission:
 
 * GitHub Repository Link;
-  https://github.com/effmenwilliam/capstone-project/tree/main
+  https://github.com/effmenwilliam/capstone-project
   
 * Netlify Live Website Link;
   https://goldengateconstructions.netlify.app
